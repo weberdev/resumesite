@@ -8,3 +8,4 @@ I'm not sure what to do with this, but I'd like to get a bit more content here.
 We're grinding stuff out for daily github commits.
 This continues. My next task is to move my Blood Bowl app to React and output it here.
 The real question: do I store all the data on my server and pass the prehandled information? The domain of data is finite- I'll need to rerun it biannually, but then I have 4gb of raw text on my server- not trivial. Running the thing client side will take 20 minutes.
+I didn't do that today- working.
