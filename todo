@@ -10,3 +10,4 @@ This continues. My next task is to move my Blood Bowl app to React and output it
 The real question: do I store all the data on my server and pass the prehandled information? The domain of data is finite- I'll need to rerun it biannually, but then I have 4gb of raw text on my server- not trivial. Running the thing client side will take 20 minutes.
 I didn't do that today- working.
 Myy team has excitedly started messing around with Unity in my absence. I will join them.
+However, I did not do that today.
