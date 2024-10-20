@@ -21,4 +21,5 @@ Current task: get art for Synthgrave from somewhere on my hdd.
 
 Maybe I should figure out how to decode TOME saves. Pouring over hexcode is actually kind of fun.
 
-To do this, I'd need to get a process that listens for new TOME saves made in my me/tome4/saves/ folder
+To do this, I'd need to get a process that listens for new TOME saves made in my me/tome4/saves/ folder.
+Decodes the .teag file into a zip.
