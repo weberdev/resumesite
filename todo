@@ -23,3 +23,4 @@ Maybe I should figure out how to decode TOME saves. Pouring over hexcode is actu
 
 To do this, I'd need to get a process that listens for new TOME saves made in my me/tome4/saves/ folder.
 Decodes the .teag file into a zip.
+Extracts the gamestate "cults/secret code" line
