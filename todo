@@ -27,3 +27,4 @@ Extracts the gamestate "cults/secret code" line
 transforms it into images
 
 There are powershell tools for listening to file updates.
+There might be an elegant way to read directly from the hex to my output. Unsure.
