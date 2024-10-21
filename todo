@@ -25,3 +25,5 @@ To do this, I'd need to get a process that listens for new TOME saves made in my
 Decodes the .teag file into a zip.
 Extracts the gamestate "cults/secret code" line
 transforms it into images
+
+There are powershell tools for listening to file updates.
